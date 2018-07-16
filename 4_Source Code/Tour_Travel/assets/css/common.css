@@ -1,0 +1,19 @@
+.alert_login_error {
+	background-color: #fff;
+    color: #f05050;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -5px;
+}
+.alert_submit_success {
+	background-color: #fff;
+	color: #27c24c;
+	font-weight: bold;
+    margin-bottom: 10px;
+}
+.alert_submit_error {
+	background-color: #fff;
+    color: #f05050;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
